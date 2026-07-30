@@ -4,9 +4,9 @@ I am a Computer Engineering student at Fayoum University (Class of 2029) with a 
 
 ### Tech Stack & Focus Areas
 
-**Languages:** **C Programming**, **HTML, CSS, and JavaScript**.
-**Automation & Tooling:** Experienced in using **ExtendScript** to automate Adobe Photoshop workflows.
-**Core Interests:** Automotive Software, Edge AI.
+- **Languages:** **C Programming** (with a strong emphasis on memory management mechanics), **HTML, CSS, and JavaScript**.
+- **Automation & Tooling:** Experienced in using **ExtendScript** to automate Adobe Photoshop workflows.
+- **Core Interests:** Automotive Software, Edge AI, Low-level Programming, and Data Structures.
 
 ### Professional Background & Content Creation
 
