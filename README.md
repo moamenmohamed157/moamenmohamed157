@@ -1,26 +1,34 @@
-# Hi there, I'm Moamen Mohamed
+# Hi there, I'm Moamen 👋
 
-I am a Computer Engineering student at Fayoum University (Class of 2029) with a current GPA of 3.85. I am incredibly passionate about continuous learning, particularly in the fields of **Embedded Systems** and the **Automotive** industry. My core focus is building a solid foundation for a career in Automotive Embedded Software Engineering while exploring the emerging potential of **Edge AI**.
+I'm a Computer and Communications Engineering student at **Fayoum University (Class of 2029)** with a current GPA of **3.85**.
 
-### Tech Stack & Focus Areas
+I'm passionate about **Backend Development** and love learning how software works and how large systems are built.
 
-- **Languages:** **C Programming** (with a strong emphasis on memory management mechanics), **HTML, CSS, and JavaScript**.
-- **Automation & Tooling:** Experienced in using **ExtendScript** to automate Adobe Photoshop workflows.
-- **Core Interests:** Automotive Software, Edge AI, Low-level Programming, and Data Structures.
+My long-term goal is to grow in:
 
-### Professional Background & Content Creation
+**Backend → Distributed Systems → Cloud → AI Infrastructure**
 
-Alongside my engineering studies, I operate strictly as an individual independent freelance graphic designer under the brand **Designawy**, specializing in high-CTR YouTube thumbnails and social media assets.
+## Tech Stack
 
-I am also an active content creator and the developer of **Khatfa Course**, a comprehensive digital thumbnail design training course where I design custom educational modules and student tracking systems.
+* **Languages:** Java, C/C++, JavaScript
+* **Web:** HTML, CSS
+* **Tools:** Git, GitHub
+* **Currently Learning:** IBM Backend Development Professional Certificate (Focusing on REST APIs & Database Design)
 
-### What I'm Currently Working On
+## Projects
 
-- Deepening my knowledge in C programming through practical, complex memory management tasks.
-- Structuring a comprehensive, long-term learning pathway dedicated to automotive embedded software and Edge AI technologies.
+### Personal Portfolio
 
----
+A portfolio website built from scratch using **HTML, CSS, and GitHub Pages**.
 
-**How to reach me:**
+## Beyond Coding 🎨
 
-- [LinkedIn](https://www.linkedin.com/in/moamen-mohamed11/)
+I also have a strong background in **graphic design and content creation**.
+
+I run **Designawy**, where I create YouTube thumbnails and visual content, and I founded **Khatfa**, a design training program.
+
+I believe this background helps me think creatively, solve problems, and build better products.
+
+## 📫 Connect With Me
+
+* [LinkedIn](https://www.linkedin.com/in/moamen-mohamed11/
