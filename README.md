@@ -1,4 +1,4 @@
-# Hi there, I'm Moamen 👋
+# Hi there, I'm Moamen
 
 I'm a Computer and Communications Engineering student at **Fayoum University (Class of 2029)** with a current GPA of **3.85**.
 
@@ -21,7 +21,7 @@ My long-term goal is to grow in:
 
 A portfolio website built from scratch using **HTML, CSS, and GitHub Pages**.
 
-## Beyond Coding 🎨
+## Beyond Coding
 
 I also have a strong background in **graphic design and content creation**.
 
@@ -29,6 +29,6 @@ I run **Designawy**, where I create YouTube thumbnails and visual content, and I
 
 I believe this background helps me think creatively, solve problems, and build better products.
 
-## 📫 Connect With Me
+## Connect With Me
 
 * [LinkedIn](https://www.linkedin.com/in/moamen-mohamed11/
