@@ -1,6 +1,6 @@
 # Hi there, I'm Moamen
 
-I'm a Computer and Communications Engineering student at **Fayoum University (Class of 2029)** with a current GPA of **3.85**.
+I'm a Computer and Communications Engineering student at **(Class of 2029)** with a current GPA of **3.85**.
 
 I'm passionate about **Backend Development** and love learning how software works and how large systems are built.
 
@@ -25,7 +25,7 @@ A portfolio website built from scratch using **HTML, CSS, and GitHub Pages**.
 
 I also have a strong background in **graphic design and content creation**.
 
-I run **Designawy**, where I create YouTube thumbnails and visual content, and I founded **Khatfa**, a design training program.
+I run **Designawy**, where I create YouTube thumbnails and visual content, and I founded **Khatfa**, a design course.
 
 I believe this background helps me think creatively, solve problems, and build better products.
 
