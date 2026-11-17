@@ -8,11 +8,10 @@ My long-term goal is to grow as a **Generative AI Engineer**, combining strong s
 
 ## Tech Stack
 
-- **Languages:** C, C++, Java, JavaScript
+- **Languages:** Python, C, C++, Java, JavaScript
 - **Web Technologies:** HTML, CSS
 - **Core CS:** Object-Oriented Programming, Data Structures & Algorithms
 - **Tools:** Git, GitHub
-- **Currently Learning:** IBM Backend Development Professional Certificate, focusing on REST APIs and Database Design.
 - **Exploring:** Applied AI, Generative AI, and AI-powered applications.
 
 ## Projects
@@ -23,7 +22,6 @@ My long-term goal is to grow as a **Generative AI Engineer**, combining strong s
 - **Interactive Learning Platform:** Developed a visual and interactive website to simplify educational concepts for students.
 - **Student Project Ideas Platform:** Created a platform introducing students to potential application and business ideas.
 
-**Explore my projects:** [GitHub Repositories](https://github.com/moamenmohamed157?tab=repositories)
 
 ## Beyond Coding
 
@@ -36,4 +34,3 @@ My background in design and education strengthens my ability to understand user 
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/moamen-mohamed11/)
-- [GitHub](https://github.com/moamenmohamed157)
