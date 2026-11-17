@@ -2,11 +2,9 @@
 
 I'm a **Communications and Computer Engineering student at Fayoum University (Class of 2029)**, ranked **1st across the Faculty of Engineering** with a GPA of **3.85/4.00**.
 
-I'm passionate about **Backend Development, Software Engineering, and building scalable systems**. I enjoy understanding how software works behind the scenes and turning ideas into practical applications.
+I'm passionate about **Software Development, Applied AI, and Emerging Technologies**. I enjoy building practical technology solutions, understanding how software systems work, and exploring how artificial intelligence can solve real-world problems.
 
-My long-term goal is to grow in:
-
-**Backend Development → Distributed Systems → Cloud Engineering → AI Infrastructure**
+My long-term goal is to grow as a **Generative AI Engineer**, combining strong software engineering foundations with expertise in modern AI technologies.
 
 ## Tech Stack
 
@@ -14,8 +12,8 @@ My long-term goal is to grow in:
 - **Web Technologies:** HTML, CSS
 - **Core CS:** Object-Oriented Programming, Data Structures & Algorithms
 - **Tools:** Git, GitHub
-- **Currently Learning:** IBM Backend Development Professional Certificate, focusing on REST APIs, Backend Architecture, and Database Design.
-- **Exploring:** Applied AI and Generative AI technologies.
+- **Currently Learning:** IBM Backend Development Professional Certificate, focusing on REST APIs and Database Design.
+- **Exploring:** Applied AI, Generative AI, and AI-powered applications.
 
 ## Projects
 
@@ -29,12 +27,13 @@ My long-term goal is to grow in:
 
 ## Beyond Coding
 
-I'm also a **digital entrepreneur, educator, and visual designer**.
+I'm also an entrepreneur, educator, and visual designer.
 
-I founded **Designawy**, a digital design community reaching 20,000+ followers and generating 13M+ organic views, and created **Khatfa**, an educational course that has trained students in professional design workflows.
+I founded **Designawy**, a digital design community reaching 20,000+ followers and generating 13M+ organic views, and created **Khatfa**, an educational course for aspiring designers.
 
-My experience in design and education helps me approach software development from both technical and user-experience perspectives, turning complex ideas into practical and accessible products.
+My background in design and education strengthens my ability to understand user needs, communicate complex ideas visually, and build more accessible and engaging technology products.
 
 ## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/moamen-mohamed11/)
+- [GitHub](https://github.com/moamenmohamed157)
