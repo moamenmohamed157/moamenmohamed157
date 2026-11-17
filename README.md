@@ -1,34 +1,40 @@
-# Hi there, I'm Moamen
+# Hi there, I'm Moamen 👋
 
-I'm a Computer and Communications Engineering student at **(Class of 2029)** with a current GPA of **3.85**.
+I'm a **Communications and Computer Engineering student at Fayoum University (Class of 2029)**, ranked **1st across the Faculty of Engineering** with a GPA of **3.85/4.00**.
 
-I'm passionate about **Backend Development** and love learning how software works and how large systems are built.
+I'm passionate about **Backend Development, Software Engineering, and building scalable systems**. I enjoy understanding how software works behind the scenes and turning ideas into practical applications.
 
 My long-term goal is to grow in:
 
-**Backend → Distributed Systems → Cloud → AI Infrastructure**
+**Backend Development → Distributed Systems → Cloud Engineering → AI Infrastructure**
 
 ## Tech Stack
 
-* **Languages:** Java, C/C++, JavaScript
-* **Web:** HTML, CSS
-* **Tools:** Git, GitHub
-* **Currently Learning:** IBM Backend Development Professional Certificate (Focusing on REST APIs & Database Design)
+- **Languages:** C, C++, Java, JavaScript
+- **Web Technologies:** HTML, CSS
+- **Core CS:** Object-Oriented Programming, Data Structures & Algorithms
+- **Tools:** Git, GitHub
+- **Currently Learning:** IBM Backend Development Professional Certificate, focusing on REST APIs, Backend Architecture, and Database Design.
+- **Exploring:** Applied AI and Generative AI technologies.
 
 ## Projects
 
-### Personal Portfolio
+### Web Development
 
-A portfolio website built from scratch using **HTML, CSS, and GitHub Pages**.
+- **Personal Portfolio:** Built from scratch using HTML, CSS, and GitHub Pages to showcase my work and projects.
+- **Interactive Learning Platform:** Developed a visual and interactive website to simplify educational concepts for students.
+- **Student Project Ideas Platform:** Created a platform introducing students to potential application and business ideas.
+
+**Explore my projects:** [GitHub Repositories](https://github.com/moamenmohamed157?tab=repositories)
 
 ## Beyond Coding
 
-I also have a strong background in **graphic design and content creation**.
+I'm also a **digital entrepreneur, educator, and visual designer**.
 
-I run **Designawy**, where I create YouTube thumbnails and visual content, and I founded **Khatfa**, a design course.
+I founded **Designawy**, a digital design community reaching 20,000+ followers and generating 13M+ organic views, and created **Khatfa**, an educational course that has trained students in professional design workflows.
 
-I believe this background helps me think creatively, solve problems, and build better products.
+My experience in design and education helps me approach software development from both technical and user-experience perspectives, turning complex ideas into practical and accessible products.
 
 ## Connect With Me
 
-* [LinkedIn](https://www.linkedin.com/in/moamen-mohamed11/)
+- [LinkedIn](https://www.linkedin.com/in/moamen-mohamed11/)
